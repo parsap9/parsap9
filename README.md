@@ -49,5 +49,5 @@
 ─────
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parsa-taba-b60890193/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://parsataba.xyx">Site</a> &nbsp;→&nbsp; say hi
+  <a href="https://www.linkedin.com/in/parsa-taba-b60890193/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://parsataba.xyz">Site</a> &nbsp;→&nbsp; say hi
 </p>
