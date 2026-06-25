@@ -1,53 +1,33 @@
-<p align="center">
-  <sub>· · ·</sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Parsa</strong>
-</p>
+<br>
 
-<p align="center">
-  <em>Data scientist · Sydney</em>
-</p>
+**Parsa Taba**
 
-<p align="center">
-  Data end-to-end — pipelines, warehousing, analytics.<br>
-  Most repos are private; happy to connect.
-</p>
+Data · Sydney
 
-<p align="center">
-  <code>> turning data into decisions · building on the web</code><br>
-  <code>$ currently → MAppDataSci · side projects</code>
-</p>
+*MAppDataSci in progress · side projects · most repos are private*
 
-─────
+</div>
 
-<p align="center">
-  <strong>Stack</strong>
-</p>
+<br>
+
+**Stack**
 
 | | |
 |:---|:---|
-| **Languages** | Python · SQL · R · TypeScript · JavaScript · HTML |
-| **Data** | ETL, warehousing, Power Query |
-| **Analytics** | Statistical modelling, regression, hypothesis testing, predictive models |
-| **BI & viz** | Power BI, dashboards, Excel |
-| **Web** | Next.js, React, Tailwind, Prisma, PostgreSQL |
-| **Tools** | Git, Jira |
+| Languages | Python · SQL · TypeScript · R · JavaScript |
+| Data | ETL, warehousing, Power Query |
+| Analytics | Regression, hypothesis testing, predictive models |
+| BI & viz | Power BI, dashboards, Excel |
+| Web | Next.js, React, Tailwind, Prisma, PostgreSQL |
 
-─────
+<br>
 
-<p align="center">
-  <strong>Background</strong>
-</p>
+**Background**
 
-- Master of Applied Data Science (in progress)
-- Healthcare analytics, operational research · messy data → clear decisions
-- Full-stack side projects: dashboards, auth, privacy-conscious design
-- Nightlife discovery, small business solutions, personal health apps
+Turning messy data into decisions people trust. Product data, analytics, and operational research by day. Full-stack side projects nights and weekends — dashboards, auth systems, privacy-first design. Building in nightlife discovery, small business tooling, and personal health.
 
-─────
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parsa-taba-b60890193/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://parsataba.xyz">Site</a> &nbsp;→&nbsp; say hi
-</p>
+[LinkedIn](https://www.linkedin.com/in/parsa-taba-b60890193/) · [parsataba.xyz](https://parsataba.xyz)
