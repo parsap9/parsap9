@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 196" width="800" height="196" role="img" aria-labelledby="t d">
+  <title id="t">Parsa Taba</title>
+  <desc id="d">Data, end to end: pipelines, warehousing, analytics and BI. Product data by day, full-stack side projects nights and weekends.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .fg { fill: #09090B; }
+    .muted { fill: #475569; }
+    .accent { fill: #2563EB; }
+    .rule { stroke: #A1A1AA; stroke-width: 1; }
+    .eyebrow { font-size: 14px; font-weight: 600; letter-spacing: 2.4px; }
+    .name { font-size: 72px; font-weight: 700; letter-spacing: -2.2px; }
+    .label { font-size: 13px; font-weight: 500; letter-spacing: 1.6px; }
+    .pulse { animation: flow 7s linear infinite; }
+    @keyframes flow {
+      0% { transform: translateX(0); opacity: 0; }
+      6% { opacity: 1; }
+      94% { opacity: 1; }
+      100% { transform: translateX(792px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { animation: none; opacity: 0; }
+    }
+  </style>
+
+  <rect class="accent" x="0" y="13" width="10" height="10"/>
+  <text class="mono eyebrow accent" x="22" y="23">DATA, END TO END</text>
+
+  <text class="sans name fg" x="-4" y="104">Parsa Taba</text>
+
+  <line class="rule" x1="0" y1="152" x2="800" y2="152"/>
+  <rect class="accent pulse" x="0" y="150" width="8" height="4"/>
+
+  <rect class="fg" x="0" y="148" width="8" height="8"/>
+  <rect class="fg" x="264" y="148" width="8" height="8"/>
+  <rect class="fg" x="528" y="148" width="8" height="8"/>
+  <rect class="accent" x="792" y="148" width="8" height="8"/>
+
+  <text class="mono label muted" x="0" y="182">PIPELINES</text>
+  <text class="mono label muted" x="264" y="182">WAREHOUSING</text>
+  <text class="mono label muted" x="528" y="182">ANALYTICS</text>
+  <text class="mono label muted" x="800" y="182" text-anchor="end">BI</text>
+</svg>
